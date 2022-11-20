@@ -1,0 +1,2 @@
+# VIzsga
+ Ágazati vizsgára public
